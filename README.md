@@ -1,4 +1,4 @@
-### Hi there!
+## 👋 Hi there, welcome to my profile!
 
 - 🔨 I'm currently working on a Minecraft mod client.
 * 🌱 I'm currently learning:
