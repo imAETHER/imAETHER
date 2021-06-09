@@ -12,5 +12,5 @@
   * [Imf44 @ YouTube](https://www.youtube.com/channel/UCPN5_9n3syVvC0dAgaOvnig) 
 - 🥤 Fueled by Coca Cola
 
-<img src="https://github-readme-stats.vercel.app/api?username=imAETher&&show_icons=true&title_color=df36d8&icon_color=bb2acf&text_color=05f0f7&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=imAETher&&show_icons=true&&count_private=true&title_color=df36d8&icon_color=bb2acf&text_color=05f0f7&bg_color=151515&hide_border=true">
 
