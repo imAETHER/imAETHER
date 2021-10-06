@@ -8,7 +8,7 @@
   * <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25"/> </a>
   * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/> </a>
 * 📫 Where to find me:
-  * Discord: Imf44#6363
+  * Discord: Aether#2235
   * [Imf44 @ YouTube](https://www.youtube.com/channel/UCPN5_9n3syVvC0dAgaOvnig) 
 - 🥤 Fueled by Coca Cola
 
