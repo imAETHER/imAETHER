@@ -2,9 +2,8 @@
 ### 😺 About me: ###
   - 🇦🇷 I'm from Argentina, currently studying electromechanical engineering and coding for fun!
 - 🔨 I'm currently working on:
-  * Minecraft Hacked Client
-  * A Discord Moderation Bot
-  * Website (frontend & backend)
+  * A Discord Verification Bot
+  * Website
 ### 💻 Know/learning: ###
   * <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a>
    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> </a>
