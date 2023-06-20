@@ -13,7 +13,7 @@
    <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="scss" width="35" height="35"/> </a>
    <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35"/> </a>
 ### 📩 Contact: ###
-  * Discord: `Aether#2235` | ID: `630575982973157396`
+  * Discord: `imaether` | ID: `630575982973157396`
   * [Imf44 @ YouTube](https://www.youtube.com/channel/UCPN5_9n3syVvC0dAgaOvnig) 
 - 🥤 Fueled by Coca Cola
 
