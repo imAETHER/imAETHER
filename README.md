@@ -1,17 +1,11 @@
-## <p align="center">👋 Welcome!</p>
+## <p align="center">👋 Hi, I'm Aether!</p>
 ### 😺 About me: ###
   - 🇦🇷 I'm from Argentina, currently studying electromechanical engineering and coding for fun!
 - 🔨 I'm currently working on:
-  * Verifier Discord bot
-  * Aether Store (a place to buy and host cheats for games)
+  * School
+  * Small projects (can be found in my repos, some are private tho)
 ### 💻 Know/learning: ###
-  * <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a>
-   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>
-   <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="35" height="35"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="35" height="35"/> </a>
-   <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="scss" width="35" height="35"/> </a>
-   <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35"/> </a>
+  [![stuff](https://skillicons.dev/icons?i=java,js,cs,go,sass,next,html,css)](https://skillicons.dev)
 ### 📩 Contact: ###
   * Discord: `imaether` | ID: `630575982973157396`
   * [Imf44 @ YouTube](https://www.youtube.com/channel/UCPN5_9n3syVvC0dAgaOvnig) 
