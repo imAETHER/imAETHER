@@ -1,8 +1,9 @@
 ## <p align="center">👋 Hi, I'm Aether!</p>
 ### 😺 About me: ###
-  - 🇦🇷 I'm from Argentina, currently studying electromechanical engineering and coding for fun!
+  - 🇦🇷 I'm from Argentina, currently studying and coding for fun!
 - 🔨 I'm currently working on:
   * School
+  * Phoenix Security for Minecraft
   * Small projects (can be found in my repos, some are private tho)
 ### 💻 Know/learning: ###
   [![stuff](https://skillicons.dev/icons?i=java,js,cs,go,sass,next,html,css)](https://skillicons.dev)
