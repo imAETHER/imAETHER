@@ -8,7 +8,7 @@
 ### 💻 Know/learning: ###
   [![stuff](https://skillicons.dev/icons?i=java,js,cs,go,sass,next,html,css)](https://skillicons.dev)
 ### 📩 Contact: ###
-  * Discord: `imaether` | ID: `630575982973157396`
+  * Discord: `imaginary.lines` | ID: `929532940235464725`
   * [Imf44 @ YouTube](https://www.youtube.com/channel/UCPN5_9n3syVvC0dAgaOvnig) 
 - 🥤 Fueled by Coca Cola
 
