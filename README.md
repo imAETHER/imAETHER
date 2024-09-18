@@ -1,13 +1,13 @@
-## <p align="center">👋 Hi, I'm Aether!</p>
-### 😺 About me: ###
-  - 🇦🇷 I'm from Argentina, currently studying and coding for fun!
+# <p align="center">Hi, I'm Aether 🌟</p>
+### 🔶 About me: ###
+  - 🇦🇷 I'm from a small city in Argentina, currently studying and coding for fun!
 - 🔨 I'm currently working on:
   * School
-  * Phoenix Security for Minecraft
-  * Small projects (can be found in my repos, some are private tho)
-### 💻 Know/learning: ###
-  [![stuff](https://skillicons.dev/icons?i=java,js,cs,go,sass,next,html,css)](https://skillicons.dev)
-### 📩 Contact: ###
+  * A multipurpose client for Minecraft Fabric
+  * Small projects (some can be found in my repos, most are private for now)
+### 🖥️ Know/learning:
+  [![icons](https://skillicons.dev/icons?i=java,js,ts,cs,go,arduino,sass,next,html,css,figma,mongodb,py,tailwind,tensorflow)](https://skillicons.dev)
+### 🌐 Socials: ###
   * Discord: `imaginary.lines` | ID: `929532940235464725`
   * [Imf44 @ YouTube](https://www.youtube.com/channel/UCPN5_9n3syVvC0dAgaOvnig) 
 - 🥤 Fueled by Coca Cola
