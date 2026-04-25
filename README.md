@@ -14,5 +14,5 @@
 ##
 <p align="center">
   <img src="https://github-readme-stats-pearl-phi-68.vercel.app/api?username=imAETHER&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=5">
-  <img src="https://github-profile-summary-cards-jet.vercel.app/api/cards/repos-per-language?username=imAETHER&theme=radical">
+  <img src="https://furros.club/api/gitcards/repos-per-language?username=imAETHER&theme=radical">
 </p>
