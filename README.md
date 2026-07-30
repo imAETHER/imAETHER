@@ -14,5 +14,4 @@
 ##
 <p align="center">
   <img src="https://furros.club/api/gitreadme?username=imAETHER&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=5">
-  <img src="https://furros.club/api/gitcards/repos-per-language?username=imAETHER&theme=radical">
 </p>
